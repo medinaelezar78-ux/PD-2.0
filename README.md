@@ -111,4 +111,4 @@ En [DOCUMENTACION.md](DOCUMENTACION.md) están los casos de uso, las historias d
 
 ## Autor
 
-[Tu nombre] – [Materia / grupo]
+Eleazar Medina
