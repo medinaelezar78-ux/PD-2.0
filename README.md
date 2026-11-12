@@ -109,6 +109,9 @@ En [DOCUMENTACION.md](DOCUMENTACION.md) están los casos de uso, las historias d
 - Los correos son simulados (se imprimen y se guardan en un historial).
 - H2 es solo respaldo y se pierde al terminar el programa.
 
+## Link del video 
+https://youtu.be/GtAaZIlZsp4
+
 ## Autor
 
 Eleazar Medina
